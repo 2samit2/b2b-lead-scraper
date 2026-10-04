@@ -1,0 +1,9 @@
+services:
+  lead-scraper:
+    build: .
+    container_name: b2b-lead-scraper
+    # Демо-режим по умолчанию: работает офлайн и без риска блокировок.
+    command: ["--demo", "--enrich", "--query", "Автосервис", "--city", "Казань", "--limit", "30"]
+    volumes:
+      - ./output:/app/output
+      - ./logs:/app/logs
