@@ -1,3 +1,4 @@
+<img width="1815" height="775" alt="Снимок экрана_20261004_222027" src="https://github.com/user-attachments/assets/4a306fac-7d6b-4e30-b0d8-4094578dba09" />
 # B2B Lead Scraper & Contact Enricher
 
 Production-ready проект (с комментариями) для сбора коммерческих B2B-лидов: поиск организаций
