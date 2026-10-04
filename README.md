@@ -1,4 +1,3 @@
-<img width="1815" height="775" alt="Снимок экрана_20261004_222027" src="https://github.com/user-attachments/assets/4a306fac-7d6b-4e30-b0d8-4094578dba09" />
 # B2B Lead Scraper & Contact Enricher
 
 Production-ready проект (с комментариями) для сбора коммерческих B2B-лидов: поиск организаций
@@ -126,6 +125,7 @@ docker compose run lead-scraper --query "Автосервис" --city "Каза�
   (умеренная частота запросов).
 Соблюдайте robots.txt и законы о персональных данных при работе
 с реальными сайтами.
+<img width="1815" height="775" alt="Снимок экрана_20261004_222027" src="https://github.com/user-attachments/assets/d16f4fae-bf27-47ef-9647-78146cf68f54" />
 
 ---
 
@@ -195,3 +195,4 @@ docker compose run lead-scraper --query "Автосервис" --city "Каза�
 - Real source is OpenStreetMap (Overpass API / Nominatim), open data under
   ODbL. Respect the API usage policy (moderate request rate).
 - When crawling real websites, respect robots.txt and personal data laws.
+<img width="1815" height="775" alt="Снимок экрана_20261004_222027" src="https://github.com/user-attachments/assets/d16f4fae-bf27-47ef-9647-78146cf68f54" />
